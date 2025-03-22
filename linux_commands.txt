@@ -1,0 +1,21 @@
+
+   ls - list directory contents
+   cd - change directory
+   pwd - print working directory
+   mkdir - make directory
+   rmdir - remove directory
+   rm - remove files or directories
+   cp - copy files and directories
+   mv - move or rename files and directories
+   cat - concatenate and display files
+   echo - display a line of text
+   grep - search for a pattern
+   find - find files and directories
+   chmod - change file permissions
+   chown - change file owner and group
+   sudo - execute a command as superuser
+   apt - package management (Debian/Ubuntu)
+   yum - package management (Red Hat/CentOS)
+   df - disk free space
+   du - disk usage
+   top - display processes
